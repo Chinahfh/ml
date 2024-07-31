@@ -1,3 +1,2 @@
 一个开源的命令，旨在在Minecraft1.20.5+的版本打造一把无敌的剑。
-指令(请在命令方块中使用):
-/give @a minecraft:netherite_sword[minecraft:attribute_modifiers=[{type:"generic.attack_damage",id:"attack_damage",amount:2.5e+309,operation:"add_value"},{type:"player.entity_interaction_range",id:"entity_interaction_range",amount:2.5e+309,operation:"add_value"},{type:"generic.attack_speed",id:"attack_speed",amount:2.5e+309,operation:"add_value"},{type:"generic.armor",id:"attack_damage",amount:2.5e+309,operation:"add_value"},{type:"generic.armor_toughness",id:"armor",amount:2.5e+309,operation:"add_value"}],item_name="NB剑",jukebox_playable={song:"cat"},rarity="epic",unbreakable={},enchantments={levels:{"sweeping_edge":255}},lore=["你就说N不NB吧"]]
+指令请在命令方块中使用
